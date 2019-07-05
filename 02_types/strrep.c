@@ -23,7 +23,7 @@ int main() {
                    inp[k] = inp[k+1];
                }
                
-               i--;
+               j--;
            }
        }
    }
